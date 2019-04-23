@@ -10,3 +10,4 @@ Computer Vision solution to validate Master plans of buildings like hospitals,sc
 
 
 ## Our Solution
+![alt text](https://github.com/tanishg98/Validate-O/blob/master/Screen%20Shot%202019-04-23%20at%204.58.54%20PM.png)
