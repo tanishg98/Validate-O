@@ -9,3 +9,4 @@ Computer Vision solution to validate Master plans of buildings like hospitals,sc
 ->Corruption prevails in getting faulty floor plans approved which proves to be hazardous in long term giving way to a lot of disasters like building collapse, fires and improper evacuation.
 
 
+## Our Solution
